@@ -1,0 +1,13 @@
+body {
+	background-color:#ffe9e5;
+}
+
+h1, h2, p, ul{
+	font-family: 'courier new';
+	color: #c7aec7;
+}
+
+p {
+	border: 1px solid #c7aec7;
+	padding: 10px;
+}
